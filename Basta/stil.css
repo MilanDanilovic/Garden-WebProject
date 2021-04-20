@@ -1,0 +1,119 @@
+.kontejner{
+    display: flex;
+    border:  1px solid black;
+    margin-top: 10px;
+
+}
+.kontForma{
+    display: flex;
+    flex-direction: column;
+    flex-basis: 200px;
+
+}
+
+.kontLokacije{
+    display: flex;
+    flex-grow: 1;
+    flex-direction: column;
+
+}
+.red{
+    display: flex;
+    flex-grow: 1;
+}
+
+.lok{
+    border: 1px solid black;
+    flex: 1 1 10px;
+    margin: 5px;
+    text-align: center;
+}
+
+
+
+
+
+.kolicina{
+    margin-bottom: 10px;
+}
+.vrsta{
+    margin-bottom: 10px;
+}
+.tipBiljke{
+    margin-top: 5px;
+}
+.X{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.klikV{
+    display: flex;
+    border: 1px solid black;
+    flex-direction: column;
+    margin-bottom: 20px;
+    flex-basis: 200px;
+    align-items: center;
+}
+.klik1{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.klik2{
+    margin-bottom: 10px;
+}
+.klik3{
+    margin-bottom: 10px;
+}
+.klik4{
+    margin-bottom: 10px;
+}
+.klik0{
+    margin-right: 5px;
+}
+
+.dodajB
+{
+    margin-right:42px;
+}
+.elLab1
+{
+    margin-right:65px;
+}
+
+.elLab2
+{
+    margin-right:18px;
+}
+.elLab3
+{
+    margin-right:28px;
+}
+.elLab4
+{
+    margin-right:10px;
+}
+.unosPOLJOPRIVREDNIKA
+{
+    display: flex;
+    border: 1px solid black;
+    flex-direction: column;
+    margin-bottom: 20px;
+    flex-basis: 200px;
+    align-items: center;
+}
+.unesi-ime
+{
+    margin-right: 50px;
+}
+.unesi-adresu
+{
+    margin-right: 15px;
+}
+.qwerty{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.qwert
+{
+    margin-bottom: 10px;
+}
