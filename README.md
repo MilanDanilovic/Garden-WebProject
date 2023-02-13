@@ -1,2 +1,2 @@
 # Garden
-Simple Webb App for managing garden
+Simple .NET Webb App for managing garden
